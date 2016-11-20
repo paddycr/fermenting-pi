@@ -1,0 +1,3 @@
+energenie==1.0.1
+statsd==3.2.1
+w1thermsensor==0.3.2
